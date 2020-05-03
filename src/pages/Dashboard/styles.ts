@@ -36,6 +36,7 @@ export const ProductImage = styled.Image`
 
 export const ProductTitle = styled.Text`
   font-size: 14px;
+  /* font-family: Roboto, sans-serif; */
   margin-top: 10px;
 `;
 
